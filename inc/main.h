@@ -7,5 +7,6 @@
 
 void function1(int a, int b);
 void function2(float a, float b);
+void function3(unsigned int a, float b);
 
 #endif
